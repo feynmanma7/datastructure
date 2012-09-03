@@ -21,11 +21,6 @@ void quicksort(int* arr, int left, int right){
       j--;
     }
   }
-  int k = 0;
-  for(k = 0; k <= 6; k++){
-    printf("%d ", arr[k]);
-  }
-  printf("\n");
 
   if(left < j){
     quicksort(arr, left, j);
@@ -38,4 +33,11 @@ void quicksort(int* arr, int left, int right){
 void main(){
   int a[7] = {4, 5, 6, 7, 8, 1, -1};
   quicksort(a, 0, 6);
+
+  int k = 0;
+  for(k = 0; k <= 6; k++){
+    printf("%d ", a[k]);
+  }
+  printf("\n");
+
 }
