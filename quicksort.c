@@ -39,5 +39,4 @@ void main(){
     printf("%d ", a[k]);
   }
   printf("\n");
-
 }
