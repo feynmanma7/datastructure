@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-mayunlong1988@gmai.com
+mayunlong1988@gmail.com
 reverse a string of c type
  */
 
