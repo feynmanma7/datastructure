@@ -5,7 +5,7 @@
 FLYINGMAN
 mayunlong1988 at gmail.com
 
-the best way to solve the problem:
+The best way to solve the problem:
 u have a function : isSubstring(s1, s2), to check if s1 is the substring of s2
 given two strings: s1, s2. the goal is to check if s1 is the rotation of s2.
 ie: "waterbottle" is a rotation of "erbottlewat".
