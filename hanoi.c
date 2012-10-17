@@ -4,7 +4,7 @@
 FLYINGMAN
 hanoi problem, recursion method
  */
-/* move the plates number to pillar */
+/* Move the plates number to pillar */
 void move(int number, char from, char to){
   printf("%d, %c --> %c\n", number, from, to);
 }
