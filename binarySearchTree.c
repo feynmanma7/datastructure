@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #define STACKSIZE 100
 
+/*
+FLYINGMAN
+mayunlong1988 at gmail dot com
+pre, in and post order of a binary search tree, with both recursive and non-recursive method (using stack).
+*/
 
 typedef struct tnode{
   int data;
